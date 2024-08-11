@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-rafin" alt="s-r-rafin" /></a> </p>
 
-- 🔭 I’m currently working on **CSE Student at East West University**
+- 🔭 I’m currently working on **Linklist & Stacks**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
