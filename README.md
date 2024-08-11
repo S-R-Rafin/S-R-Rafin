@@ -1,6 +1,7 @@
+[![Masterhead](https://png.pngtree.com/thumb_back/fw800/background/20230930/pngtree-web-development-concept-programming-and-coding-illustrated-in-3d-image_13511770.png)
 <h1 align="center">Hi 👋, I'm S-R-Rafin</h1>
 <h3 align="center">A passionate coder from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3218o-KH_aS09xMOLx0kAY&ust=1723465611583000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPieyO737IcDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-rafin" alt="s-r-rafin" /></a> </p>
 
