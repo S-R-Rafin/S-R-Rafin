@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CSE Student**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **Java / C / C++ / Java swing**
 
