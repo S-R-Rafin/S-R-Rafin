@@ -1,5 +1,5 @@
 [![Masterhead](https://png.pngtree.com/thumb_back/fw800/background/20230930/pngtree-web-development-concept-programming-and-coding-illustrated-in-3d-image_13511770.png)
-<h1 align="center">Hi 👋, I'm S-R-Rafin</h1>
+<h1 align="center">Hi 👋, I'm S R Rafin</h1>
 <h3 align="center">A passionate coder from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
