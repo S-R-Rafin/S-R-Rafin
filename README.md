@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-rafin" alt="s-r-rafin" /></a> </p>
 
-- 🔭 I’m currently working on **Linklist & Stacks**
+- 🔭 I’m currently working on **Database & Operating System**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **SQL & Linux Ubuntu**
 
-- 💬 Ask me about **Java / C / C++ / Java swing / DSA**
+- 💬 Ask me about **Java / C / C++ / Java swing / DSA / SQL / Linux Ubuntu**
 
 - 📫 How to reach me **s.rahman.rafin@gmail.com**
 
