@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-rafin" alt="s-r-rafin" /></a> </p>
 
-- 🔭 I’m currently working on **Database & Operating System**
+- 🔭 I’m currently working on **AI and Machine Learning Algorithm**
 
-- 🌱 I’m currently learning **SQL & Linux Ubuntu**
+- 🌱 I’m currently learning **LLM / Multimodal + Generative AI**
 
 - 💬 Ask me about **Java / C / C++ / Java swing / Python / Pandas / Numpy / DSA / SQL / Linux Ubuntu / ML / AI**
 
