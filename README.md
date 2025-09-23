@@ -1,6 +1,6 @@
 [![Masterhead](https://png.pngtree.com/thumb_back/fw800/background/20230930/pngtree-web-development-concept-programming-and-coding-illustrated-in-3d-image_13511770.png)
 <h1 align="center">Hi 👋, I'm S R Rafin</h1>
-<h3 align="center">A passionate coder from Bangladesh</h3>
+<h3 align="center">A passionate coder & ML Engineer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-r-rafin" alt="s-r-rafin" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL & Linux Ubuntu**
 
-- 💬 Ask me about **Java / C / C++ / Java swing / DSA / SQL / Linux Ubuntu**
+- 💬 Ask me about **Java / C / C++ / Java swing / Python / Pandas / Numpy / DSA / SQL / Linux Ubuntu / ML / AI**
 
 - 📫 How to reach me **s.rahman.rafin@gmail.com**
 
